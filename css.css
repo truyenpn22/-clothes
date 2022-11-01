@@ -45,9 +45,7 @@ h6 {
 .container {
   width: 100%;
 }
-.header {
-  max-width: 1349px;
-}
+
 .topbar {
   width: 100%;
   background-color: #333333;
@@ -183,9 +181,6 @@ main {
   width: 100%;
   padding: 35px 90px;
 }
-.section-product {
-  max-width: 1170px;
-}
 .product-box {
   display: flex;
   align-items: center;
@@ -252,7 +247,6 @@ main {
   padding-top: 50px;
 }
 .top-footer {
-  max-width: 1349px;
   background: #000;
   color: #ebebeb;
   padding-bottom: 50px;
